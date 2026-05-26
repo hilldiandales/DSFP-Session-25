@@ -6,6 +6,7 @@ The twenty-fifth session of the LSST Discovery Alliance Data Science Fellowship 
 - Dr. Ioana Ciuca, Stanford University [:octocat:](https://github.com/IoanaCiuca)
 - Dr. Aleksandra Ciprijanovic, Fermi National Accelerator Laboratory [:octocat:](https://github.com/AleksCipri)
 - Dr. Yongseok Jo, SkAI Institute [:octocat:](https://github.com/YongseokJo)
+- Dr. Lu Cheng, UIC 
 
 Lectures were also delivered by the DSFP leadership team:
 
@@ -72,12 +73,12 @@ Wednesday, June 10, 2026
 
 Thursday, June 11, 2026
 
-* 09:00 AM – 10:00 AM o Domain Adaptation for ML; A Ciprijanovic
+* 09:00 AM – 10:00 AM o Autoencoders; Y Jo
 * 10:00 AM – 10:30 AM o BREAK
-* 10:30 AM – 12:00 PM o Problem: Domain Adaptation for ML; A Ciprijanovic
+* 10:30 AM – 12:00 PM o Problem: Autoencoders; Y Jo 
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 02:30 PM o Autoencoders; Y Jo
-* 02:30 PM – 04:00 PM o Problem: Autoencoders; Y Jo
+* 01:30 PM – 02:30 PM o Domain Adaptation for ML; A Ciprijanovic 
+* 02:30 PM – 04:00 PM o Problem: Domain Adaptation for ML; A Ciprijanovic
 * 04:00 PM – 04:30 PM o BREAK
 * 04:30 PM – 05:30 PM o Hack Day Pitch Session
 
@@ -85,10 +86,11 @@ Thursday, June 11, 2026
 
 Friday, June 12, 2026
 
-* 09:00 AM – 10:30 AM o Hack Session
-* 10:30 AM – 11:00 AM o BREAK
-* 11:00 AM – 12:00 PM o AI Ethics; TBD
-* 12:00 PM – 01:00 PM o LUNCH
-* 01:00 PM – 04:00 PM o Hack Session
-* 04:00 PM – 05:00 PM o Hack Sharebacks
-* 05:00 PM – 05:30 PM o Meeting Wrap Up
+* 09:00 AM – 10:45 AM o Hack Session
+* 10:45 AM – 11:15 AM o BREAK
+* 11:15 AM – 12:00 PM o Hack Session
+* 12:00 PM – 12:30 PM o Hack Sharebacks
+* 12:30 PM – 02:00 PM o LUNCH
+* 02:00 PM – 03:00 PM o Developing Ethical AI Models; L Cheng
+* 03:00 PM – 04:00 PM o Problem: Case Studies; L Cheng
+* 04:00 PM – 04:30 PM o Meeting Wrap Up
